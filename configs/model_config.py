@@ -6,5 +6,5 @@ load_dotenv()
 
 geminiModel = Gemini(
     model="gemini-1.5-flash",
-    api_key=os.getenv("AIzaSyBelbMxG2KHBW2FBeD6w_bbb4QGezNn9kU")
+    api_key=os.getenv("YOUR API KEY")
 )
