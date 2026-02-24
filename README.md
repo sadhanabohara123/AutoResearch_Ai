@@ -1,1 +1,1 @@
-# AutoResearch_Ai
+AutoResearchAI is an intelligent multi-agent research system that automatically searches the web, collects relevant information, and generates structured summaries using AI models.I built a multi-agent AI research system that automatically searches the web, extracts important information, and generates structured results from a user query. The system uses Google Agent Development Kit for agent orchestration and integrates Google Gemini to process and summarize information efficiently. It automates manual research by coordinating multiple specialized agents
